@@ -7,7 +7,7 @@ function onDeviceReady() {
     
     var btnTirarFoto = document.getElementById("btnTirarFoto"); //aqui estou pegando o botão para usar
     btnTirarFoto.addEventListener('click', tirarFoto); //adicionei um evento, uma função 
-
+  
 }
 
 function tirarFoto(){
